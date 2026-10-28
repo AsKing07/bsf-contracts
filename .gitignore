@@ -1,0 +1,10 @@
+# Dépôt de contrats : aucun code, aucun secret.
+.env
+.env.*
+*.pem
+*.key
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
