@@ -38,6 +38,10 @@ Un changement qui casse la compatibilité (retrait ou renommage d'un champ, chan
 
 Voir [CONTRIBUTING.md](CONTRIBUTING.md).
 
+## Licence
+
+Les contrats de ce dépôt sont publiés sous licence [MIT](LICENSE) : les quatre groupes du programme peuvent les réutiliser, les copier et les adapter librement.
+
 ## Maintenance
 
 Initié par la squad Portail ; chaque groupe maintient le contrat de son propre produit.
